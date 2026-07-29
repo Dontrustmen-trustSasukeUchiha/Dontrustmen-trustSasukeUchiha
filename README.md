@@ -34,3 +34,5 @@
   
   </tr>
 </table>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dontrustmen-trustSasukeUchiha&bg_color=000000&color=ffffff&line=808080&point=ffffff&area=true&hide_border=true)
