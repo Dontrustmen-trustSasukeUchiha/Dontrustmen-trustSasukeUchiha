@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Dontrustmen-trustSasukeUchiha/Dontrustmen-trustSasukeUchiha/blob/c03eb11c89427f6ea69260a619325dbdc25d6d28/1f11cacc791bf37055f973a91a90613d.gif" width="100%" alt="Banner">
+  <img src="https://github.com/Dontrustmen-trustSasukeUchiha/Dontrustmen-trustSasukeUchiha/blob/24cb7fd9227ff4a15123dd3db596893193fe9ef8/58a144bbf26f39ab11a741e3458a08d6.gif" width="100%" alt="Banner">
 </p>
 
 <p align="center"><img src="https://img.shields.io/badge/%F0%93%82%83_%E0%AC%AA%CB%96_%E0%AC%B4%E0%A0%8E%DB%84%F0%90%80%98%F0%9F%AB%A7_lost_in_the_blue%2C_found_in_the_silence.-D99A8C?style=for-the-badge&labelColor=transparent&color=D99A8C" /></p>
