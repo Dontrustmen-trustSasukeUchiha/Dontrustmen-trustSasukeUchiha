@@ -2,7 +2,7 @@
   <img src="https://github.com/Dontrustmen-trustSasukeUchiha/Dontrustmen-trustSasukeUchiha/blob/c03eb11c89427f6ea69260a619325dbdc25d6d28/1f11cacc791bf37055f973a91a90613d.gif" width="100%" alt="Banner">
 </p>
 
-<p align="center"><img src="https://img.shields.io/badge/%F0%93%82%83_%E0%AC%AA%CB%96_%E0%AC%B4%E0%A0%8E%DB%84%F0%90%80%98%F0%9F%AB%A7_lost_in_the_blue%2C_found_in_the_silence.-F6D77A?style=for-the-badge&labelColor=transparent&color=F6D77A" /></p>
+<p align="center"><img src="https://img.shields.io/badge/%F0%93%82%83_%E0%AC%AA%CB%96_%E0%AC%B4%E0%A0%8E%DB%84%F0%90%80%98%F0%9F%AB%A7_lost_in_the_blue%2C_found_in_the_silence.-D99A8C?style=for-the-badge&labelColor=transparent&color=D99A8C" /></p>
 
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=315oga2mv4ywj23ibo5xg6p2nk4a&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=315oga2mv4ywj23ibo5xg6p2nk4a)
 
@@ -31,4 +31,4 @@
   </tr>
 </table>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dontrustmen-trustSasukeUchiha&bg_color=0D1117&color=8ED8E8&line=F6D77A&point=F6D77A&area=true&area_color=8ED8E8&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dontrustmen-trustSasukeUchiha&bg_color=F6ECF0&color=3B5F5B&line=C08F78&point=95A99F&area=true&area_color=95A99F&hide_border=true)
