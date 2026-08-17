@@ -1,13 +1,12 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/レピ-1%2C810-5b6ea6?style=flat-square" />
+  <img src="https://img.shields.io/badge/how%20much%20i%20love%20you-100%25-F7A8C4?style=flat&labelColor=808080" />
 </p>
 
 <p align="left">
   <img src="" width="65" align="left">
 
-  <strong>Can't Love You Anymore (With<br>
-  OHHYUK)</strong><br>
-  IU
+  <strong>Uocgicoaynoiyeutoi </strong><br>
+  Lil Liem
 </p>
 
 <br clear="left">
