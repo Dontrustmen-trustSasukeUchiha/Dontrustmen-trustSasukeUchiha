@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  <img src="YOUR_ALBUM_COVER_URL" width="65" align="left">
+  <img src="" width="65" align="left">
 
   <strong>Can't Love You Anymore (With<br>
   OHHYUK)</strong><br>
@@ -13,7 +13,7 @@
 <br clear="left">
 
 <p align="center">
-  <img src="YOUR_MAIN_GIF_URL" width="100%">
+  <img src="https://github.com/Dontrustmen-trustSasukeUchiha/Dontrustmen-trustSasukeUchiha/blob/ac56741426fb8e9f0bd09ebd3647e013e262cba8/0105a26c7a0f337c7e112b578923e0ac.gif" width="100%">
 </p>
 
 <p align="center">
