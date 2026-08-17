@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  <img src="" width="65" align="left">
+  <img src="https://github.com/Dontrustmen-trustSasukeUchiha/Dontrustmen-trustSasukeUchiha/blob/2240b1e52aca02f0bf633f12f59f78f66b7deeac/ea445c9a15f3398242be4da7f3e486a1.jpg" width="65" align="left">
 
   <strong>Uocgicoaynoiyeutoi </strong><br>
   Lil Liem
