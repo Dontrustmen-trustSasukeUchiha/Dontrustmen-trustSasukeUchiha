@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="https://github.com/Dontrustmen-trustSasukeUchiha/Dontrustmen-trustSasukeUchiha/blob/864956ec41564eb99329b33af2f3748025c5f993/ok.jpg" width="850">
+  <img src="https://github.com/Dontrustmen-trustSasukeUchiha/Dontrustmen-trustSasukeUchiha/blob/a91f8b81afaa7a99e1d8527d7eb780147a9a0ce1/Enhancer-Ultra%20HD-773449818_1753149672541728_6006876423366693674_n.png" width="850">
 </p>
 
 <p align="center">
-  🏮 天官赐福 Sakura Haruno - Shanaroo.
+  🏮 汗达辽  Ryo Kanye - Hàn dá liáo
 </p>
 
 <p align="center">
-  为你战死是我至高无上的荣耀。<br>
-  有些人见微知著,见便是终生之光。
+  一个有着深红色头发的女孩。<br>
+  祖母绿般的绿色双眼，配上狐狸的耳朵与尾巴。
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/Dontrustmen-trustSasukeUchiha/Dontrustmen-trustSasukeUchiha/blob/0132577d64c96bc2dad11ab64e6a69740d5ae046/umk.jpg" width="850">
+  <img src="" width="850">
 </p>
