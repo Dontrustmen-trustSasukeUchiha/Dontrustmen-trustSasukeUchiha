@@ -1,22 +1,18 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/how%20much%20i%20love%20you-100%25-F7A8C4?style=flat&labelColor=808080" />
-</p>
-
-<p align="left">
-  <img src="https://github.com/Dontrustmen-trustSasukeUchiha/Dontrustmen-trustSasukeUchiha/blob/2240b1e52aca02f0bf633f12f59f78f66b7deeac/ea445c9a15f3398242be4da7f3e486a1.jpg" width="65" align="left">
-
-  <strong>Uocgicoaynoiyeutoi </strong><br>
-  Lil Liem
-</p>
-
-<br clear="left">
-
-<p align="center">
-  <img src="https://github.com/Dontrustmen-trustSasukeUchiha/Dontrustmen-trustSasukeUchiha/blob/141bbd71976dabf4b2b728be56fc85c44b82502d/fc337048814e1054802637b1e189d3fe.gif" width="100%">
+  <img src="YOUR_BANNER_IMAGE_URL" width="850">
 </p>
 
 <p align="center">
-  <a href="YOUR_ATABOOK_LINK">𝒂𝒕𝒂𝒃𝒐𝒐𝒌</a>
-  &nbsp;&nbsp; ♡ &nbsp;&nbsp;
-  <a href="YOUR_GIFTS_LINK">𝒈𝒊𝒇𝒕𝒔</a>
+  🏮 天官赐福 Sakura Haruno - Shanaroo.
+</p>
+
+<p align="center">
+  为你战死是我至高无上的荣耀。<br>
+  有些人见微知著,见便是终生之光。
+</p>
+
+---
+
+<p align="center">
+  <img src="YOUR_SECOND_IMAGE_URL" width="600">
 </p>
