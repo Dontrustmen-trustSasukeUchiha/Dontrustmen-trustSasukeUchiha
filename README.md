@@ -1,4 +1,7 @@
 <p align="center">
+  <a href="https://guns.lol/aduemryo">Gunlols</a>
+  <a href="https://discord.com/channels/@me/1539560906755801088">Dis</a>
+</p>
   <img src="https://github.com/Dontrustmen-trustSasukeUchiha/Dontrustmen-trustSasukeUchiha/blob/a91f8b81afaa7a99e1d8527d7eb780147a9a0ce1/Enhancer-Ultra%20HD-773449818_1753149672541728_6006876423366693674_n.png" width="850">
 </p>
 
