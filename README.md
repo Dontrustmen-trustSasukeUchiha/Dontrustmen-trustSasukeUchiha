@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" width="850">
+  <img src="https://github.com/Dontrustmen-trustSasukeUchiha/Dontrustmen-trustSasukeUchiha/blob/864956ec41564eb99329b33af2f3748025c5f993/ok.jpg" width="850">
 </p>
 
 <p align="center">
