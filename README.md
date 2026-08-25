@@ -6,12 +6,12 @@
 </p>
 
 <p align="center">
-  🩰 继续热爱你所热爱的事物。 - Jìxù rè'ài nǐ suǒ rè'ài de shìwù.
+  🩰 君の世界を知りたいな。 - `Kimi no sekai o shiritai na.'
 </p>
 
 <p align="center">
-  全心全意地热爱某样事物。<br>
-  绝非什么可耻之事。
+  あまりにも遅すぎた謝罪というものがある。<br>
+  もっと早くお互いを理解し合えていたら
 </p>
 
 ---
