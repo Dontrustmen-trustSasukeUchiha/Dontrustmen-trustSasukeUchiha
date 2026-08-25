@@ -2,7 +2,7 @@
   <a href="https://guns.lol/aduemryo">Gunlols</a>
   <a href="https://discord.com/channels/@me/1539560906755801088">Dis</a>
 </p>
-  <img src="https://github.com/Dontrustmen-trustSasukeUchiha/Dontrustmen-trustSasukeUchiha/blob/fd1bc9b8424f1a31cac1a534b32bdb08b8f21071/cf51de944668431b1c81c0b340577063.gif" width="850">
+  <img src="https://github.com/Dontrustmen-trustSasukeUchiha/Dontrustmen-trustSasukeUchiha/blob/50be842d143756ca72a293e5f95c9128c465d522/50cb5cd8f238944acb1d09ff181a16e6.gif" width="850">
 </p>
 
 <p align="center">
