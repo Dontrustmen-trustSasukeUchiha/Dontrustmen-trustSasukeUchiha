@@ -17,5 +17,5 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/Dontrustmen-trustSasukeUchiha/Dontrustmen-trustSasukeUchiha/blob/c6cfbe9e5a2b5d65b9cd91854f4255cca2f2ca47/87392184c99c383fb35fd160fa0de998.gif" width="850">
+  <img src="https://github.com/Dontrustmen-trustSasukeUchiha/Dontrustmen-trustSasukeUchiha/blob/979dd317ea933cb16f5f9ecd22af068544dd39b9/cd15e67ea46f8eb3f906623396c4296e.gif" width="850">
 </p>
