@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  🏮 继续热爱你所热爱的事物。 - Jìxù rè'ài nǐ suǒ rè'ài de shìwù.
+  🩰 继续热爱你所热爱的事物。 - Jìxù rè'ài nǐ suǒ rè'ài de shìwù.
 </p>
 
 <p align="center">
